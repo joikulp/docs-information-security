@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "15e4f4d38b52d46b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cbfd280f7bebf42",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DNS/Cloudflare.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c752448b6bfecbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "068571505a205060",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25f52093c81875d3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "401918725d268b0d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "797c6503679ad599",
+    "type": "split",
+    "children": [
+      {
+        "id": "0aa2adbecb4e33ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d4998ab8349e699",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DNS/Cloudflare.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ad10047f900db9d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DNS/Cloudflare.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1cbfd280f7bebf42",
+  "lastOpenFiles": [
+    "DNS/DNSSEC.md",
+    "Email/2. How to setup DKIM.md",
+    "Email/1. How to setup SPF.md",
+    "Email/3. How to setup DMARC.md",
+    "Risk assessment.md",
+    "ISO 27000 family/ISO 27002-2022 Information security controls.md",
+    "ISO standards.md",
+    "Main - Information security.md",
+    "Email/Securing email domain.md",
+    "ISO 27000 family/ISO 19011-2018 Guidelines for auditing management systems.pdf"
+  ]
+}
