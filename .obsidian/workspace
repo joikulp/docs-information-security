@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DNS/Cloudflare.md",
+            "file": "DNS/DNS threats and mitigations.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "fb6b1f08aee594b1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DNS/HSTS - Cloudflare.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DNS/Cloudflare.md",
+                "file": "DNS/DNS threats and mitigations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DNS/Cloudflare.md",
+                "file": "DNS/DNS threats and mitigations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,15 +113,15 @@
   },
   "active": "1cbfd280f7bebf42",
   "lastOpenFiles": [
+    "DNS/CAA record.md",
+    "DNS/DNS threats and mitigations.md",
+    "DNS/HSTS - Cloudflare.md",
+    "DNS/DNSSEC - Cloudflare.md",
     "DNS/DNSSEC.md",
     "Email/2. How to setup DKIM.md",
     "Email/1. How to setup SPF.md",
     "Email/3. How to setup DMARC.md",
     "Risk assessment.md",
-    "ISO 27000 family/ISO 27002-2022 Information security controls.md",
-    "ISO standards.md",
-    "Main - Information security.md",
-    "Email/Securing email domain.md",
-    "ISO 27000 family/ISO 19011-2018 Guidelines for auditing management systems.pdf"
+    "ISO 27000 family/ISO 27002-2022 Information security controls.md"
   ]
 }
